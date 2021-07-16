@@ -21,10 +21,22 @@ There are essentially 5 levels to Cisco Certifications.
 
 ### Types of Cisco Certified Network Professional Certifications
 
-- CCNP Enterprise
-- CCNP Data Center
-- CCNP Security Certification
-- CCNP Service Provider
-- CCNP Collaboration
-- Cisco Certified CyberOps Professional
-- Cisco Certified DevNet Professional
+- [CCNP Enterprise]
+- [CCNP Data Center]
+- [CCNP Security Certification]
+- [CCNP Service Provider]
+- [CCNP Collaboration]
+- [Cisco Certified CyberOps Professional]
+- [Cisco Certified DevNet Professional]
+
+**Start Your Learnings Today!**
+
+[//]: # (Any comments)
+
+[CCNP Enterprise]: <https://www.netcomlearning.com/certification/ccnp-enterprise/751/?advid=1356>
+[CCNP Data Center]: <https://www.netcomlearning.com/certification/ccnp-data-center/753/?advid=1356>
+[CCNP Security Certification]: <https://www.netcomlearning.com/certification/ccnp-security/754/?advid=1356>
+[CCNP Service Provider]: <https://www.netcomlearning.com/certification/ccnp-service-provider/755/?advid=1356>
+[CCNP Collaboration]: <https://www.netcomlearning.com/certification/ccnp-collaboration/752/?advid=1356>
+[Cisco Certified CyberOps Professional]: <https://www.netcomlearning.com/certification/cisco-certified-cyberops-professional/855/?advid=1356>
+[Cisco Certified DevNet Professional]: <https://www.netcomlearning.com/certification/cisco-certified-devnet-professional/750/?advid=1356>
